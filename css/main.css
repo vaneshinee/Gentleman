@@ -1,0 +1,125 @@
+.cont-1 h1{
+	padding-top: 1%;
+	text-align: center;
+	font-size: 50px;
+}
+
+.cont-1{
+	background-color: #322E39;
+	height: 80px;
+}
+
+.cont-1 a{
+	color: white;
+	text-decoration: none;
+	margin: 15px;
+	font-size: 14px;
+}
+
+.cont-1 nav{
+	padding-top: 5%;
+}
+
+
+.bg-color{
+	background-color: #DDDDE8;
+
+}
+
+.cont-2{
+	background-color: white;
+	padding: 0%;
+
+}
+
+.fil-2{
+	padding-bottom: 3%;
+}
+
+.fil-2 .col-5{
+  padding: 2.5% 3%;
+  width: 400px;
+}
+
+.cont-2 h1{
+  color: #46404F;
+  font-size: 30px;
+  padding-bottom: 5%;
+}
+
+.cont-2 p{
+	color:#918D98;
+	padding: 3% 0%;
+
+}
+
+.cont-2 img{
+	padding: 5%;
+	height: 480px;
+}
+
+.cont-2 a{
+	text-decoration: none;
+	color: white;
+	font-size: 12px;
+	background-color: #B0ADB7;
+  border-radius: 30px;
+  padding: 2% 7%;
+  margin-top: 5%;
+
+}
+
+
+.cont-3{
+	background-color: white;
+	padding: 4.5% 3.5%;
+}
+
+.cont-3 h1{
+  color:#6C6577;
+}
+
+.cont-3 a{
+  color:#B1AEB8;
+  text-decoration: none;
+  margin: 5px;
+}
+
+.cont-3 img{
+	padding: 5% 0 2% 0;
+}
+
+.cont-3 h3{
+  color:#655F6D;
+  display: inline-block;
+  margin: 3px 70px 20px 0;
+}
+
+.cont-3 p{
+  color:#878290;
+}
+
+.icon-p{
+	display: inline-block;
+}
+
+.top{
+	padding-top: 15%;
+}
+
+.fil-3 a{
+	text-decoration: none;
+	color: white;
+	background-color: #6C6577;
+  border-radius: 30px;
+  padding: 1% 5%;
+ }
+
+.center-a{
+	text-align: center;
+}
+
+.one{
+	padding-bottom: 5%
+}
+
